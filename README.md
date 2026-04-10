@@ -41,10 +41,10 @@ pip install -r requirements.txt
 
 The project is designed with a clean separation of concerns, allowing you to easily swap the engine or the interface:
 
-• lib/akasha/: The core engine logic. Handles Atom creation, Trait affixing, and memory persistence.
-• api/: The interface layer. Includes the MCP-compliant JSON-RPC server for both local and remote communication.
-• cli/: The command-line frontend. Optimized for minimal typing and intuitive interaction (using directives like $it).
-• data/: Where your seeds sprout. Stores your local identity and encrypted memory contexts.
+- lib/akasha/: The core engine logic. Handles Atom creation, Trait affixing, and memory persistence.
+- api/: The interface layer. Includes the MCP-compliant JSON-RPC server for both local and remote communication.
+- cli/: The command-line frontend. Optimized for minimal typing and intuitive interaction (using directives like $it).
+- data/: Where your seeds sprout. Stores your local identity and encrypted memory contexts.
 
 —-
 
