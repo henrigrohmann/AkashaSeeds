@@ -77,7 +77,7 @@ Akasha Seeds is designed to be your most intuitive digital partner. Upon your fi
 
 ```bash
 python cli/main.py
-``
+```
 
 ---
 
@@ -85,7 +85,7 @@ Simply type "help" to see the available commands.
 
 ```bash
 Akasha >> help
-ˋˋˋ
+```
 
 True Name" (a secure, machine-specific identity) and your preferred handle.
 
@@ -104,7 +104,7 @@ We believe your memory should speak your heart's language.
 ```bash
 Akasha >> locale jp  # Switch system messages to Japanese
 Akasha >> locale en  # Switch system messages to English
-ˋˋˋ
+```
 
 ---
 
