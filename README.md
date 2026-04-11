@@ -77,7 +77,7 @@ Akasha Seeds is designed to be your most intuitive digital partner. Upon your fi
 
 ```bash
 python cli/main.py
-ˋˋˋ
+``
 
 ---
 
