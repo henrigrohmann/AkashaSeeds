@@ -113,3 +113,34 @@ Akasha >> locale en  # Switch system messages to English
 To keep your creative flow uninterrupted, Akasha understands the $it directive. It refers to the "last item you interacted with," allowing for a natural, conversational chain of thought without needing to copy-paste IDs.
 
 —--
+
+## 📓 What is AkashicNote β?
+
+**AkashicNote** is a web application designed to fulfill Akasha’s duty as the "Guardian of Memory." By hosting Akasha on your own server (Home Server, VPS, or Cloud), you can access this magical notebook from any browser, anywhere in the world.
+
+Akasha comes pre-loaded with a **Base Thesaurus** for creative brainstorming. It automatically extracts tags (keywords) from your "text chunks" to weave a vast network of ideas. 
+
+Akasha serves as your dedicated external memory, supporting organization and associative thinking for:
+* **Business Planning**: Refine strategies and models.
+* **System Architecture**: Elaborate complex technical designs.
+* **Scenario & Literature**: Craft intricate narratives and worlds.
+* **Life Hacks**: Organize and connect everyday wisdom.
+
+Best of all, your Akasha can evolve by periodically receiving the latest **Global Thesaurus** updates from the Mother Ship.
+
+---
+
+## 🤝 The Wisdom Exchange Program (Opt-in)
+
+To keep your memory evolving, we offer an optional intelligence-sharing program. Upon your first launch of AkashicNote β, you will be asked for your cooperation.
+
+### The Trade-off: Privacy vs. Evolution
+* **Opt-Out (Private Mode)**:
+  Your Akasha remains 100% private. No data ever leaves your environment. You have total sovereignty over your memory.
+  
+* **Opt-In (Wisdom Mode)**:
+  - **The Reward**: Receive the **Advanced Business & Creative Thesaurus** updates. This enhances Akasha’s ability to categorize and suggest connections you might have missed.
+  - **The Contribution**: Your Akasha securely contributes anonymous "semantic chunks" to help train the next generation of the ecosystem.
+  - **The Promise**: We prioritize your sovereignty. All data is stripped of IDs, personal names, and source origins before transmission. We only collect the "conceptual DNA" to improve the global thesaurus, never the personal story behind it.
+
+*“Akasha evolves as you think. Let us grow the library together.”*
