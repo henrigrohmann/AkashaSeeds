@@ -71,10 +71,44 @@ The project is designed with a clean separation of concerns, allowing you to eas
 
 ## 🤝 Usage & Partnership
 
-Akasha Seeds is not just a tool; it's a partner. Upon your first launch, a synchronization ritual will establish your "True Name" (a secure, machine-specific identity) and your preferred handle.
+Akasha Seeds is designed to be your most intuitive digital partner. Upon your first launch, a synchronization ritual will establish your **True Name** (a secure, machine-specific identity) and your preferred handle.
+
+### Getting Started
 
 ```bash
 python cli/main.py
 ˋˋˋ
+---
 
-—-
+Simply type `help` to see the available commands.
+
+```bash
+Akasha >> help
+ˋˋˋ
+
+True Name" (a secure, machine-specific identity) and your preferred handle.
+
+---
+
+### Language & Localization
+
+We believe your memory should speak your heart's language.
+
+• Multilingual Input: You can freely type in your native language (Japanese, English, German, etc.) within quotes "".
+• Note: Please ensure your terminal supports UTF-8. For special characters or multi-line text, wrapping your input in double quotes is recommended to ensure data integrity.
+• Interface Locale: You can switch the help and system message language using the locale command:
+
+---
+
+```bash
+Akasha >> locale jp  # Switch system messages to Japanese
+Akasha >> locale en  # Switch system messages to English
+ˋˋˋ
+
+---
+
+### The $it Directive
+
+To keep your creative flow uninterrupted, Akasha understands the $it directive. It refers to the "last item you interacted with," allowing for a natural, conversational chain of thought without needing to copy-paste IDs.
+
+—--
