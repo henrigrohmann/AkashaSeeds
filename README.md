@@ -95,9 +95,9 @@ True Name" (a secure, machine-specific identity) and your preferred handle.
 
 We believe your memory should speak your heart's language.
 
-• Multilingual Input: You can freely type in your native language (Japanese, English, German, etc.) within quotes "".
-• Note: Please ensure your terminal supports UTF-8. For special characters or multi-line text, wrapping your input in double quotes is recommended to ensure data integrity.
-• Interface Locale: You can switch the help and system message language using the locale command:
+- Multilingual Input: You can freely type in your native language (Japanese, English, German, etc.) within quotes "".
+- Note: Please ensure your terminal supports UTF-8. For special characters or multi-line text, wrapping your input in double quotes is recommended to ensure data integrity.
+- Interface Locale: You can switch the help and system message language using the locale command:
 
 ---
 
