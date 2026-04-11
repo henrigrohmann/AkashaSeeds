@@ -78,9 +78,10 @@ Akasha Seeds is designed to be your most intuitive digital partner. Upon your fi
 ```bash
 python cli/main.py
 ˋˋˋ
+
 ---
 
-Simply type `help` to see the available commands.
+Simply type "help" to see the available commands.
 
 ```bash
 Akasha >> help
